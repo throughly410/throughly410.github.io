@@ -4,6 +4,8 @@
   <url>
     <loc>http://example.org/posts/intro/</loc>
   </url><url>
+    <loc>http://example.org/posts/mythird./</loc>
+  </url><url>
     <loc>http://example.org/categories/</loc>
   </url><url>
     <loc>http://example.org/</loc>
