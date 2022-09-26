@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/posts/intro/</loc>
+    <loc>https://throughly410.github.io/posts/intro/</loc>
   </url><url>
-    <loc>http://example.org/posts/myfirstpost/</loc>
+    <loc>https://throughly410.github.io/posts/myfirstpost/</loc>
   </url><url>
-    <loc>http://example.org/posts/mythird./</loc>
+    <loc>https://throughly410.github.io/posts/mythird./</loc>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://throughly410.github.io/categories/</loc>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://throughly410.github.io/</loc>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://throughly410.github.io/posts/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://throughly410.github.io/tags/</loc>
   </url>
 </urlset>
