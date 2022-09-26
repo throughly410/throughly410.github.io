@@ -2,17 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://throughly410.github.io/posts/intro/</loc>
-  </url><url>
-    <loc>https://throughly410.github.io/posts/myfirstpost/</loc>
-  </url><url>
-    <loc>https://throughly410.github.io/posts/mythird./</loc>
-  </url><url>
     <loc>https://throughly410.github.io/categories/</loc>
+    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://throughly410.github.io/categories/hugo/</loc>
+    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://throughly410.github.io/</loc>
+    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://throughly410.github.io/posts/</loc>
+    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://throughly410.github.io/categories/test/</loc>
+    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://throughly410.github.io/categories/water/</loc>
+    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://throughly410.github.io/posts/mythird./</loc>
+    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://throughly410.github.io/posts/myfirstpost/</loc>
+    <lastmod>2022-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://throughly410.github.io/posts/intro/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://throughly410.github.io/tags/</loc>
   </url>
